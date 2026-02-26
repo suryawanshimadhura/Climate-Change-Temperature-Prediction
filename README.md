@@ -1,7 +1,7 @@
 # 🌍 Climate Change Temperature Prediction
 
 ## 📌 Project Overview
-This project analyzes historical temperature data of India and predicts future temperature trends using Machine Learning models.
+This project analyzes historical temperature data of India and predicts future temperature trends using Machine Learning.
 
 ## 📊 Dataset Used
 Global Land Temperature Dataset from Kaggle.
@@ -13,28 +13,21 @@ Global Land Temperature Dataset from Kaggle.
 - Matplotlib
 - Scikit-Learn
 
-## 🔍 Data Processing Steps
+## 🔍 Data Processing
 - Data Cleaning
 - Handling Missing Values
-- Year Extraction
-- Aggregation of Monthly Data into Yearly Data
+- Extracting Year from Date
+- Aggregating Monthly Data into Yearly Data
 
-## 🤖 Models Implemented
-- Linear Regression
+## 🤖 Model Used
 - Random Forest Regressor
 
 ## 📈 Model Evaluation
 - R2 Score
-- Cross Validation
-- Residual Analysis
+- Train-Test Split
 
-## 🔮 Future Predictions
-The model predicts temperature trends for upcoming years showing a rising climate trend.
-
-## 🚀 Future Improvements
-- Include CO2 emission dataset
-- Add Streamlit Web Application
-- Improve model using advanced algorithms
+## 🔮 Future Prediction
+The model predicts temperature for upcoming years based on historical trends.
 
 ---
-⭐ This project demonstrates time-series analysis and machine learning modeling for climate prediction.
+⭐ This project demonstrates time-series data analysis and machine learning for climate prediction.
